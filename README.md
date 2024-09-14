@@ -1,5 +1,6 @@
 # Hi, I'm Styles! 👋
 Frontend Cheat & Game Developer
+I will be posting my Open Source/Closed Source projects in the near future, often my own projects or projects that I may work on with other developers.
 ## What do I specialise in?
 [![My Skills](https://skillicons.dev/icons?i=cpp,lua,c,py,vscode,unreal,unity,vscode,sublime,windows,linux)]()
 
