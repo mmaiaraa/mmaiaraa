@@ -1,7 +1,7 @@
 # Hi, I'm Styles! 👋
 Frontend Cheat & Game Developer
 ## What do I specialise in?
-[![My Skills](https://skillicons.dev/icons?i=cpp,lua,c,py,vscode,unreal,unity,vscode,sublime,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,lua,c,py,vscode,unreal,unity,vscode,sublime,windows,linux)]()
 
 # 🔗 Socials 
 [![telegram](https://img.shields.io/badge/TELEGRAM-5F2F92?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/manualmapped/)
