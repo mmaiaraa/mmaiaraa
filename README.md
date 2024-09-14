@@ -4,13 +4,12 @@ Frontend Cheat & Game Developer
 I will be posting my Open Source/Closed Source projects in the near future, often my own projects or projects that I may work on with other developers.
 
 ## What do specialise in?
-Languages:
 [![My Skills](https://skillicons.dev/icons?i=cpp,lua,c,py)]()
-Game Engines:
+
 [![My Skills](https://skillicons.dev/icons?i=unreal,unity)]()
-Operating Systems:
+
 [![My Skills](https://skillicons.dev/icons?i=windows,linux)]()
-IDE's / Text Editors
+
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,sublime)]()
 
 # 🔗 Socials 
