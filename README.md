@@ -4,7 +4,7 @@ Frontend Cheat & Game Developer
 I will be posting my Open Source/Closed Source projects in the near future, often my own projects or projects that I may work on with other developers.
 
 ## What do I specialise in?
-[![My Skills](https://skillicons.dev/icons?i=cpp,lua,c,py,vscode,unreal,unity,vscode,sublime,windows,linux)]()
+[![My Skills](https://skillicons.dev/icons?i=cpp,lua,c,py,unreal,unity,windows,linux,visualstudio,vscode,sublime)]()
 
 # 🔗 Socials 
 [![telegram](https://img.shields.io/badge/TELEGRAM-5F2F92?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/manualmapped/)
