@@ -11,7 +11,7 @@ I will be posting my Open Source/Closed Source projects in the near future, ofte
 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,sublime)]()
 
-**C++** - Expert Level (specialise)
+**C++** - Expert Level (specialise) 
 
 **Python** - Expert Level (specialise)
 
