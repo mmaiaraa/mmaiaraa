@@ -1,5 +1,5 @@
-# Hi, I'm Styles! 👋
-# Привет, Я Styles! 👋
+# **Hi, I'm Styles! 👋**
+# **Привет, Я Styles! 👋**
 RU Frontend Cheat & Game Developer
 
 I will be posting my Open Source/Closed Source projects in the near future, often my own projects or projects that I may work on with other developers.
