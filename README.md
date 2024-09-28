@@ -22,3 +22,5 @@ I will be posting my Open Source/Closed Source projects in the near future, ofte
 # 🔗 Socials 
 [![telegram](https://img.shields.io/badge/TELEGRAM-5F2F92?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/manualmapped/)
 [![discord](https://img.shields.io/badge/discord-260C42?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1163169417337765928/)
+
+-# *Security is not a process, its a state until you get pwned*
