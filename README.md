@@ -20,7 +20,7 @@ I will be posting my Open Source/Closed Source projects in the near future, ofte
 
 **Lua** - Experienced
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laagginq&hide=css&layout=compact&theme=dark)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manualmapped&hide=css&layout=compact&theme=dark)]()
 
 # 🔗 Socials 
 [![telegram](https://img.shields.io/badge/TELEGRAM-5F2F92?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/manualmapped/)
