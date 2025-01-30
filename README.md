@@ -10,7 +10,5 @@ russian frontend software developer & game developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manualmapped&hide=css&layout=compact&theme=dark)]()
 
-[![telegram](https://img.shields.io/badge/TELEGRAM-5F2F92?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/manualmapped/)
+[![telegram](https://img.shields.io/badge/TELEGRAM-5F2F92?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maiaraaaaaaaaaaa/)
 [![discord](https://img.shields.io/badge/discord-260C42?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1163169417337765928/)
-
-“ *Security is not a process, its a state until you get pwned* “ - bs1337
