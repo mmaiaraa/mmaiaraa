@@ -1,4 +1,4 @@
-russian frontend software developer & game developer
+russian frontend + backend software developer & game developer
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,lua,c,py)]()
 
