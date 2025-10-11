@@ -1,5 +1,6 @@
 ## Styles
 Russian Game Developer & Software Developer 
+
 Aliases: xxtyles, styles, mmaiaraa
 
 ## Skills
